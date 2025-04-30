@@ -45,7 +45,7 @@
 
 🌐 [Portfolio](https://umars.vercel.app/)  
 📧 [Email](muhmdumar75@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/muhammad-umar-9312ba29b)
+💼 [LinkedIn](https://www.linkedin.com/in/muhammad-umar-9312ba29b)
 
 ---
 
