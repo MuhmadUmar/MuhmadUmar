@@ -43,7 +43,7 @@
 
 ### 📈 Portfolio & Contact
 
-🌐 [umars.vercel.app](https://umars.vercel.app/)  
+🌐 [Portfolio](https://umars.vercel.app/)  
 📧 [Email](muhmdumar75@gmail.com)  
 💼 [LinkedIn](www.linkedin.com/in/muhammad-umar-9312ba29b)
 
