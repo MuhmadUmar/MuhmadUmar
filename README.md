@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Umar
 
-## 💻 Full-Stack Developer | Laravel, Node.js, React, WordPress, AI Integrations
+## 💻 Full-Stack Developer | Laravel, Node.js, React, Tailwind CSS, AI Integrations
 
 🚀 I'm a passionate **Full-Stack Developer** with 3+ years of experience in building scalable and high-performance web applications. I specialize in developing custom web solutions, AI-powered integrations, e-commerce platforms, and secure RESTful APIs using modern technologies.
 
